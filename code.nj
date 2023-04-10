@@ -1,0 +1,57 @@
+
+func void main(){
+            // 注释
+    /*做词法分析器好难啊啊啊 
+
+	*/
+
+    int _aA,dd = 12;
+    int b= 14;
+    double C2_c = a1-- + b * 2.44 + 1.2j - 1.2E+12 + 12.34e-2;
+    int i;
+    bool b=a||d&&c;
+    l=1;
+    i-=1;
+    if(a<=b || b>c && a==c){
+        print("马老师发生甚么事了？");
+        print('a');
+        print("");
+        if(i==1){
+            print("1");
+        }
+        else{
+            print("2");
+        }
+    }
+    else if(a==2){
+        print("hello");
+    }
+    else{
+        if(1==2){
+            print(1);
+        }
+        else if(2==2){
+            print("积泥钛镁");
+        }
+        else{
+            print(2);
+        }
+    }
+    int i=0,j=0;
+    while(i<10){
+        print(1);
+        while(j<5){
+            print(2);
+            j++;
+        }
+        i++;
+    }
+    for(i=0;i<20;i++){
+        print("小黑子");
+        for(int j=0;j<12;j+=2){
+            print("ikun");
+        }
+    }
+    print(c);
+    bool lbw = false;
+}
