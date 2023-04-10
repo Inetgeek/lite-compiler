@@ -1,0 +1,12 @@
+{
+  "KEYWORDS": "\\b(?:bool|boolean|char|class|do|double|else|false|for|func|int|main|null|print|private|protected|public|return|static|this|true|var|void|while)\\b",
+  "STRING": "(?:\"(?:[^\"\\\\]|\\\\.)*\"|\\'(?:[^\\'\\\\]|\\\\.)*\\')",
+  "DELIMITER": "[:,;{}\\[\\]()]",
+  "COMPLEX": "\\d+(?:\\.\\d+)?[ij]",
+  "SCIENTIFIC": "\\d+(?:\\.\\d+)?(?:[eE][+-]?\\d+(?:\\.\\d+)?)",
+  "IDENTIFIER": "(?:\\w{2,}|[a-zA-Z_])",
+  "FLOAT": "\\d+\\.\\d+",
+  "INTEGER": "\\d+",
+  "DOUBLE_OP": "\\+\\+|--|\\+=|\\-=|\\*=|/=|\\|\\||&&|<=|>=|==",
+  "SINGLE_OP": "[+\\-*/&|=!<>]"
+}

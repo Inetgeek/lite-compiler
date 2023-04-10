@@ -39,7 +39,7 @@ In the following, we will use the tool to parse the following code:
 
 func void main(){
             // 注释
-    /*做词法分析器好难啊啊啊 
+    /*编译器
 
 	*/
 
